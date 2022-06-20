@@ -1,0 +1,6 @@
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\praktika\praktika_zadanie\bin\Debug\praktika_zadanie.exe.config
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\praktika\praktika_zadanie\bin\Debug\praktika_zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\praktika\praktika_zadanie\bin\Debug\praktika_zadanie.pdb
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\praktika\praktika_zadanie\obj\Debug\praktika_zadanie.csprojAssemblyReference.cache
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\praktika\praktika_zadanie\obj\Debug\praktika_zadanie.exe
+E:\Program po 3d modelirovanii-o\Rabotu visual studio\praktika\praktika_zadanie\obj\Debug\praktika_zadanie.pdb
